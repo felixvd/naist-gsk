@@ -24,6 +24,4 @@ Note that this information will be hosted publically during and after the electi
 
 As a council member, you will be expected to attend the meetings of the association. The 7 council members also have to select a President, Vice President and Treasurer.
 
-##
-
 [back](./)
