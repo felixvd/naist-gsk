@@ -8,4 +8,4 @@ Go [here](https://felixvd.github.com/naist-gsk).
 
 ### Making changes
 
-Just change files right in here. Wham.
+Just change files right in here. Bam.
