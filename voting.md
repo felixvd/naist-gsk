@@ -4,7 +4,7 @@ layout: default
 
 ## How to vote
 
-Every NAIST student email address is allowed to vote once. In order to vote, write an email to naiststudentcouncil@gmail.com from your NAIST email address. You will then receive an email with a personal link to the voting website. Your vote is 100% anonymous.
+Every NAIST student email address is allowed to vote once. In order to vote, write an email to [NAISTStudentCouncil@gmail.com](mailto:NAISTStudentCouncil@gmail.com) from your NAIST email address. You will then receive an email with a personal link to the voting website. Your vote is 100% anonymous.
 
 ## Voting details
 
