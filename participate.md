@@ -12,6 +12,4 @@ The student association consists of both elected and regular members. If you wan
 
 学生会は7人の代表と会員で構成されています．代表になりたい方は[こちら](becoming-a-candidate)を参照してください.
 
-##
-
 [back](./)
