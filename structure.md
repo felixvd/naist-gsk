@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Structure / 構造
+# Structure / 構成
 
 The student association consists of 7 elected members (the "Student Council") and more regular members. The 7 council members select the President, Vice-President and Treasurer, who form the board.
 
