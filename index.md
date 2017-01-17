@@ -3,7 +3,7 @@ layout: default
 title: "NAIST Student Association / NAIST 学生会"
 ---
 
-# [](#timeline)Election 2016/2017   /   2016年度投票
+# [](#timeline)Election 2016/2017　・　2016年度投票
 
 * **[How to vote / 投票方法](voting)**
 * **[How to become a candidate / 立候補方法](becoming-a-candidate)**
