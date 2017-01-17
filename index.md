@@ -2,10 +2,6 @@
 layout: default
 ---
 
-Welcome to the website of the NAIST Student association.
-
-NAIST学生会の案内ページへようこそ。
-
 # [](#timeline)Election 2016/2017 / 2016年度投票
 
 * **[How to vote / 投票方法](voting)**
