@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "NAIST Student Association / NAIST 学生会"
 ---
 
 # [](#timeline)Election 2016/2017   /   2016年度投票
@@ -15,7 +16,7 @@ To register for voting, send an email from your NAIST account to [NAISTStudentCo
 
 投票者はアカウント登録のために必ず[こちらのメールアドレス](mailto:NAISTStudentCouncil@gmail.com)へNAISTメールアカウントからメールを送信してください．詳細は以下のリンクを参照してください．
 
-# [](#links)More information / 詳細情報
+## [](#links)More information / 詳細情報
 
 * [What is the student association and what does it do? / 学生会とは？](introduction).
 * [How to participate / 参加方法](participate)
