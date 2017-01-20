@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "NAIST Student Association / NAIST 学生会"
+title: NAIST Student Association / NAIST 学生会
 ---
 
 # [](#timeline)Election 2016/2017　・　2016年度投票

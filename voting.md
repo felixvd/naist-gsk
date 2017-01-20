@@ -4,12 +4,12 @@ layout: default
 
 # How to vote / 投票方法
 
-Every NAIST student email address is allowed to vote once. In order to vote, write an email to [NAISTStudentCouncil@gmail.com](mailto:NAISTStudentCouncil@gmail.com) from your NAIST email address. You will then receive an email with a personal link. Note that it can take up to an hour for the link to be sent.
+Every NAIST student email address is allowed to vote once. In order to vote, write an email to [NAISTStudentCouncil@gmail.com](mailto:NAISTStudentCouncil@gmail.com) from your NAIST email address. An empty email (no subject, no text) is sufficient. You will receive an email with a personal link. Note that it can take some time for the link to be sent.
 
 The link leads to a separate website and can only be used to vote once. Your vote is 100% anonymous. Your votes have to be cast by January 30, 11:59 PM GMT+9.
 
-投票は1人3票とします．投票にはまず，[こちらのメールアドレス](mailto:NAISTStudentCouncil@gmail.com)へNAISTメールアカウントでメールを送信してください．
-送信後1時間以内に投票サイトへのリンクが送られます．
+投票は1人3票とします．投票にはまず，[こちらのメールアドレス](mailto:NAISTStudentCouncil@gmail.com)へNAISTメールアカウントでメールを送信してください．テキストとタイトルはなしでも結構です．
+送信後投票サイトへのリンクが送られます．
 
 投票は1人1回3票まででとなり，匿名で行われます．
 投票期限は1月30日PM11:59までです
