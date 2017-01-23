@@ -38,6 +38,7 @@ THIS IS THE TEMPLATE
 
 ### <a name="adrian"></a> **Adrian (CHEK Min Fey)** (*BS, D3*)
 ![](adrian.jpg)
+
 Hi! I'm Adrian, a Malaysian D3 student in Bio School. Besides studying, I like to swim, bike and run. I speak Mandarin, Malay and English, and I am working on my Japanese!
 
 こんにちは！僕はエイドリアン、マレーシアのD3のバイオの学生です。研究以外に、水泳、自転車とランニング好きです。中国語、マレーと英語をしゃべられます。日本語も頑張ります！
@@ -45,6 +46,7 @@ Hi! I'm Adrian, a Malaysian D3 student in Bio School. Besides studying, I like t
 
 ### <a name="antonio"></a> **Antonio Tejero de Pablos** (*IS, D3*)
 ![](antonio.png)
+
 テヘーロデパブロス アントニオ（スペイン）は情報科学研究科の視覚情報メディア研究室のD3の学生です。
 彼はNAIST剣道部の部長であり、他のサークルにも参加しています：VSP、NASC、NAISTボランティア、リサイクリングサークル。彼は日本学生と留学生のインタラクションを促進するのが目標です。
 
@@ -56,6 +58,7 @@ He wants to promote the interaction between Japanese and international students.
 
 ### <a name="arnaud"></a> **Arnaud Delmotte** (*IS, D1 (from April / 4月から)*)
 ![](arnaud.jpg)
+
 I'm a Belgian guy that likes participating in or organizing a lot of events. I have some experience with associations: I have been an active member of a Japanese culture association in Belgium for 4 years and was president for one year. In Japan, I have been a member of Osaka University International Student Association (OUISA), and finally, I have created 3 meetup groups in Osaka about parkour training, magic training and theater improvisation.
 I hope to organize a lot of fun events on campus.
 
@@ -65,6 +68,7 @@ I hope to organize a lot of fun events on campus.
 ---
 ### <a name="felix"></a> **Felix von Drigalski** (*IS, D2*)
 [![](felix.jpg)](felix_b.jpg)
+
 I am founder and president of the NAIST Recycling Club and organise the yearly Reuse Market.
 Among other things, I have served as treasurer of the KIT Mech. Eng. Student Association (~5000 students) and co-founded a design competition for renewable power plants.
 I want to use the student association to make life better for all students, to support student clubs in making the campus life happen, and to promote the interaction between international and Japanese students.
@@ -82,6 +86,7 @@ NAISTの学生会で全員の学生生活の改善、キャンパス生活のた
 
 ### <a name="max"></a> **Max (Taishi Sawabe)** (*IS, D1*)
 ![](max.jpg)
+
 G'day mate. My name is Max (Taishi Sawabe) from Osaka, Japan. I am a D1 student at the Ambient Intelligence Laboratory. My main research field is about robotics and human, specifically the harmonization of autonomous vehicles and human passengers. Moreover, I found the international exchange community called “Oasis” in 2016. The purpose of Oasis is to connect international students and Japanese students by held meet up events and the international party to connect more students from the different university. For the future of NAIST university life, I would like to use my knowledge, skills and activities to make our university life more comfortable and more enjoyable.
 
 みなさん、こんにちは。日本生まれ、大阪出身Max(澤邊太志)と申します。現在は、情報科学研究科の環境知能学研究室博士課程1年にて、自動走行と搭乗者の快適性に関する研究をしております。また研究外の活動とし、留学生と日本の学生を繋ぐ機会を増やすことを目的とした Oasisというコミュニティーを2016年度に立ち上げ、学内外で活動しております。Meet upや交流パーティーなどの活動を通して、学内外の留学生と学生が交流できる機会を今後とも増やしていきと思っております。現在学んでいる技術や知識、行なっている活動を通して、私たちの学生生活をより快適に、より楽しいものにしていきたいと思っています。よろしくお願いします。
@@ -90,6 +95,7 @@ G'day mate. My name is Max (Taishi Sawabe) from Osaka, Japan. I am a D1 student 
 
 ### <a name="pedro"></a> **Pedro Miguel Uriguen Eljuri** (*IS, M1*)
 ![](pedro.jpg)
+
 My name is Pedro Uriguen, I am from Ecuador and I am now a master student here in NAIST.
 I think that NAIST students should share more moments apart from being all the time in the lab, enjoy the life in the university and have campus activities with the 3 graduate schools together.
 
@@ -99,6 +105,7 @@ NAIST学生は研究室外も時間をすごして、キャンパスでの生活
 
 ### <a name="rodrigo"></a> **Rodrigo Elizalde** (*IS, M1 (from April / 4月から)*)
 ![](rodrigo.jpg)
+
 Hello, I am from Mexico, I am 28 years old and I used to work as a software analyst and developer at a bank company back at home. I arrived in Japan on April 2016 and in April I will become a M1 Student in the Software Engineering Lab. I am looking forward to participate on the student council.
 
 こんにちは！僕は28歳のメキシコ人で、国でソフトウェアー解析と計画で銀行系会社に勤めていた。2016年4月に日本に来ました。今年の4月にソフトウェアー計画研究室の修士課程に入ります。学生会に参加を楽しみにしています！
