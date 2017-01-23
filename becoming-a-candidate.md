@@ -4,9 +4,9 @@ layout: default
 
 # How to become a candidate / 代表への立候補
 
-To be a candidate for the 2016 term, send an email to [NAISTStudentCouncil@gmail.com](mailto:NAISTStudentCouncil@gmail.com) with the following content before ~~23~~ **24** January 2017:
+To be a candidate for the 2016 term, send an email to [NAISTStudentCouncil@gmail.com](mailto:NAISTStudentCouncil@gmail.com) with the following content before **24** January 2017:
 
-2016年度の学生会代表への立候補を希望する方は，[こちらのメールアドレス](mailto:NAISTStudentCouncil@gmail.com)へ以下の内容を送信してください．締め切りは2017年1月 ~~23~~ **24** 日です．
+2016年度の学生会代表への立候補を希望する方は，[こちらのメールアドレス](mailto:NAISTStudentCouncil@gmail.com)へ以下の内容を送信してください．締め切りは2017年1月 **24** 日です．
 
 * Your name / 名前
 * A photo of you / 写真 (400x400 px)
