@@ -42,6 +42,7 @@ THIS IS THE TEMPLATE
 Hi! I'm Adrian, a Malaysian D3 student in Bio School. Besides studying, I like to swim, bike and run. I speak Mandarin, Malay and English, and I am working on my Japanese!
 
 こんにちは！僕はエイドリアン、マレーシアのD3のバイオの学生です。研究以外に、水泳、自転車とランニング好きです。中国語、マレーと英語をしゃべられます。日本語も頑張ります！
+
 ---
 
 ### <a name="antonio"></a> **Antonio Tejero de Pablos** (*IS, D3*)
@@ -66,8 +67,9 @@ I hope to organize a lot of fun events on campus.
 キャンパスに多くの楽しいイベントを作ろうと思っています！
 
 ---
+
 ### <a name="felix"></a> **Felix von Drigalski** (*IS, D2*)
-[![](felix.jpg)](felix_b.jpg)
+[![](felix.jpg =400x400)](felix_b.jpg)
 
 I am founder and president of the NAIST Recycling Club and organise the yearly Reuse Market.
 Among other things, I have served as treasurer of the KIT Mech. Eng. Student Association (~5000 students) and co-founded a design competition for renewable power plants.
@@ -101,6 +103,7 @@ I think that NAIST students should share more moments apart from being all the t
 
 ぺドル・ウリグエンです。エクアドルから来ました。NAISTの修士課程に入りました。
 NAIST学生は研究室外も時間をすごして、キャンパスでの生活を楽しんで、三つの研究科が一緒のイベントがあればいい。
+
 ---
 
 ### <a name="rodrigo"></a> **Rodrigo Elizalde** (*IS, M1 (from April / 4月から)*)
@@ -109,6 +112,7 @@ NAIST学生は研究室外も時間をすごして、キャンパスでの生活
 Hello, I am from Mexico, I am 28 years old and I used to work as a software analyst and developer at a bank company back at home. I arrived in Japan on April 2016 and in April I will become a M1 Student in the Software Engineering Lab. I am looking forward to participate on the student council.
 
 こんにちは！僕は28歳のメキシコ人で、国でソフトウェアー解析と計画で銀行系会社に勤めていた。2016年4月に日本に来ました。今年の4月にソフトウェアー計画研究室の修士課程に入ります。学生会に参加を楽しみにしています！
+
 ---
 
 * **[How to vote / 投票方法](../voting)**
