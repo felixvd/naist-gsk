@@ -69,7 +69,7 @@ I hope to organize a lot of fun events on campus.
 ---
 
 ### <a name="felix"></a> **Felix von Drigalski** (*IS, D2*)
-[![](felix.jpg =400x400)](felix_b.jpg)
+[![](felix.jpg)](felix_b.jpg)
 
 I am founder and president of the NAIST Recycling Club and organise the yearly Reuse Market.
 Among other things, I have served as treasurer of the KIT Mech. Eng. Student Association (~5000 students) and co-founded a design competition for renewable power plants.
