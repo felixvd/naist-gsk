@@ -81,7 +81,7 @@ NAISTの学生会で全員の学生生活の改善、キャンパス生活のた
 ---
 
 ### <a name="max"></a> **Max (Taishi Sawabe)** (*IS, D1*)
-![](.jpg)
+![](max.jpg)
 G'day mate. My name is Max (Taishi Sawabe) from Osaka, Japan. I am a D1 student at the Ambient Intelligence Laboratory. My main research field is about robotics and human, specifically the harmonization of autonomous vehicles and human passengers. Moreover, I found the international exchange community called “Oasis” in 2016. The purpose of Oasis is to connect international students and Japanese students by held meet up events and the international party to connect more students from the different university. For the future of NAIST university life, I would like to use my knowledge, skills and activities to make our university life more comfortable and more enjoyable.
 
 みなさん、こんにちは。日本生まれ、大阪出身Max(澤邊太志)と申します。現在は、情報科学研究科の環境知能学研究室博士課程1年にて、自動走行と搭乗者の快適性に関する研究をしております。また研究外の活動とし、留学生と日本の学生を繋ぐ機会を増やすことを目的とした Oasisというコミュニティーを2016年度に立ち上げ、学内外で活動しております。Meet upや交流パーティーなどの活動を通して、学内外の留学生と学生が交流できる機会を今後とも増やしていきと思っております。現在学んでいる技術や知識、行なっている活動を通して、私たちの学生生活をより快適に、より楽しいものにしていきたいと思っています。よろしくお願いします。
