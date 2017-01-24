@@ -5,7 +5,7 @@ title: NAIST Student Association / NAIST 学生会
 
 # Candidates for the election 2016/2017
 
-# 2016年度投票の利候補者
+# 2016年度選挙の立候補者
 
 In alphabetical order. ABC順です。
 
@@ -84,7 +84,7 @@ I am founder and president of the NAIST Recycling Club and organise the yearly R
 I have served as treasurer of the KIT Mech. Eng. Student Association (~5000 students) and co-founded a design competition for renewable power plants.
 I want to use the student association to make life better for all students, to support student clubs in making the campus life happen, and to promote the interaction between international and Japanese students. Concretely, I hope to achieve a shared space for student groups, student access to NAIST halls and online reservation for sports facilities (tennis & basketball courts etc).
 
-NAISTリサイクルサークルの設立者と部長で毎年のリユースマーケットを行います。
+NAISTリサイクルサークルの設立者と部長で毎年のリユースマーケットを行っています。
 ドイツのKITの機械工学学生会(約5000人)の会計係を務め、自然エネルギー発電装置のデザインコンペティションを設立しました。
 NAISTの学生会で全員の学生生活の改善、キャンパス生活のために頑張っているサークルの支援、日本学生と留学生のインタラクションの増進を目標とします。具体的には、サークルのための共用スペースの提供、NAISTの講義室のサークルへの開放、スポーツ設備（コートなど）のオンライン予約システムの開設です。
 
