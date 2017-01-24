@@ -13,13 +13,15 @@ In alphabetical order. ABC順です。
 - [Adrian Chek](#adrian)
 - [Antonio Tejero de Pablos](#antonio)
 - [Arnaud Delmotte](#arnaud)
+- [Atsushi Yodo (淀淳)](#atsushi)
 - [Felix von Drigalski](#felix)
 - [Izumi Dateyama](#izumi)
 - [Max (Taishi Sawabe)](#max)
 - [Pedro Miguel Uriguen Eljuri](#pedro)
 - [Miguel Angel Patino Gonzalez](#miguel)
 - [Rodrigo Elizalde](#rodrigo)
-- [Yodo Atsushi (淀淳)](#atsushi)
+- [Yasuhiro Otoda](#otoda)
+
 
 **[How to vote / 投票方法](../voting)**
 
@@ -66,17 +68,25 @@ I hope to organize a lot of fun events on campus.
 
 ---
 
+### <a name="atsushi"></a> **Yodo Atsushi (淀淳)** (*BS, M1*)
+![](atsushi.jpg)
+
+I’m from Osaka,Japan. Born and raised. My hobby is to play sports. I belong to NAIST FUTSAL CLUB and NAIST Baseball club. If you are interested in it, please come visit!
+
+I think that Clubs and Events is few in NAIST. I want to increase clubs and events. And I feel that opportunities for student and school exchange of opinions are few in NAIST.So I think that NAIST Student Association is good idea. Please let me change NAIST. Thank you for reading.
+
+---
+
 ### <a name="felix"></a> **Felix von Drigalski** (*IS, D2*)
 [![](felix.jpg)](felix_b.jpg)
 
 I am founder and president of the NAIST Recycling Club and organise the yearly Reuse Market.
 I have served as treasurer of the KIT Mech. Eng. Student Association (~5000 students) and co-founded a design competition for renewable power plants.
-I want to use the student association to make life better for all students, to support student clubs in making the campus life happen, and to promote the interaction between international and Japanese students.
-My main demand is a shared space for student groups and student access to NAIST halls. A vote for me is a vote for these things.
+I want to use the student association to make life better for all students, to support student clubs in making the campus life happen, and to promote the interaction between international and Japanese students. Concretely, I hope to achieve a shared space for student groups, student access to NAIST halls and online reservation for sports facilities (tennis & basketball courts etc).
 
 NAISTリサイクルサークルの設立者と部長で毎年のリユースマーケットを行います。
-ドイツのKITの機械工学学生会(約5000人)の会計係を務め、自然エネルギー発電装置の設計競争を設立しました。
-NAISTの学生会で全員の学生生活の改善、キャンパス生活のために頑張っているサークルの支援、日本学生と留学生のインタラクションの増進をすべて目標とします。
+ドイツのKITの機械工学学生会(約5000人)の会計係を務め、自然エネルギー発電装置のデザインコンペティションを設立しました。
+NAISTの学生会で全員の学生生活の改善、キャンパス生活のために頑張っているサークルの支援、日本学生と留学生のインタラクションの増進を目標とします。具体的には、サークルのための共用スペースの提供、NAISTの講義室のサークルへの開放、スポーツ設備（コートなど）のオンライン予約システムの開設です。
 
 ---
 
@@ -104,7 +114,7 @@ Hi All! My name is Miguel Patino, and I come from Paraguay. Currently, I am a D1
 My name is Pedro Uriguen, I am from Ecuador and I am now a master student here in NAIST.
 I think that NAIST students should share more moments apart from being all the time in the lab, enjoy the life in the university and have campus activities with the 3 graduate schools together.
 
-ぺドル・ウリグエンです。エクアドルから来ました。NAISTの修士課程に入りました。
+ぺドロ・ウリグエンです。エクアドルから来ました。NAISTの修士課程に入りました。
 NAIST学生は研究室外も時間をすごして、キャンパスでの生活を楽しんで、三つの研究科が一緒のイベントがあればいい。
 
 ---
@@ -118,12 +128,12 @@ Hello, I am from Mexico, I am 28 years old and I used to work as a software anal
 
 ---
 
-### <a name="atsushi"></a> **Yodo Atsushi (淀淳)** (*BS, M1*)
-![](atsushi.jpg)
+### <a name="otoda"></a> **Yasuhiro Otoda** (*IS, M1*)
+![](otoda.jpg)
 
-I’m from Osaka,Japan. Born and raised. My hobby is to play sports. I belong to NAIST FUTSAL CLUB and NAIST Baseball club. If you are interested in it, please come visit!
+I am a M1 in the Ubuquitous Computing Systems Lab. I like reading and read about a book per week. I also change hair color a lot (and now it's blond)
 
-I think that Clubs and Events is few in NAIST. I want to increase clubs and events. And I feel that opportunities for student and school exchange of opinions are few in NAIST.So I think that NAIST Student Association is good idea. Please let me change NAIST. Thank you for reading.
+情報科学のユビキタスコンピューティングシステム研究室のM1です。本を一週間で一冊ペースで読むくらい読書が好きです。よく髪色が変化します(いまは就活で黒色だけど
 
 ---
 
