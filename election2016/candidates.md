@@ -18,7 +18,7 @@ In alphabetical order. ABC順です。
 - [Izumi Dateyama](#izumi)
 - [Max (Taishi Sawabe)](#max)
 - [Pedro Miguel Uriguen Eljuri](#pedro)
-- [Miguel Angel Patino Gonzalez](#miguel)
+- [Miguel Angel Patiño González](#miguel)
 - [Rodrigo Elizalde](#rodrigo)
 - [Yasuhiro Otoda](#otoda)
 
@@ -106,7 +106,7 @@ G'day mate. My name is Max (Taishi Sawabe) from Osaka, Japan. I am a D1 student 
 
 ---
 
-### <a name="miguel"></a> **Miguel Angel Patino Gonzalez** (*IS, D1*)
+### <a name="miguel"></a> **Miguel Angel Patiño González** (*IS, D1*)
 ![](miguel.jpg)
 
 Hi All! My name is Miguel Patino, and I come from Paraguay. Currently, I am a D1 PhD Candidate within the Network Systems Lab. of G.S. of Information Science. After graduating from my Master’s in NAIST in March 2013, I came back to Paraguay for work, and returned to Japan again in April 2016. Both times as a Monbukagakusho scholar. I strongly believe the Students Association will make NAIST even better. Let’s share ideas, activities and knowledge. NAISTers must be all LEADERS!! I will be glad if you consider myself as your Representative for the Student Council. Thanks and Regards!!
