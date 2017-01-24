@@ -93,7 +93,9 @@ NAISTの学生会で全員の学生生活の改善、キャンパス生活のた
 ### <a name="izumi"></a> **Izumi Dateyama** (*BS, D2*)
 ![](izumi.jpg)
 
-MISSING
+Hi, friends. I am D2 student from Biochemical Science department. I have worked with NAIST Science Communicators (NASC) and enjoyed science not only myself at school but also with children and citizen. I am hoping NAIST will be a friendly school for Japanese and internationals.
+
+バイオサイエンス研究科のD2です。大学院での研究だけでなく、NAIST サイエンス コミュニケーターズ(NASC)を通して子供たちや市民の皆さんと科学を楽しむ活動をしてきました。NAISTが日本人にも留学生にもいい環境になることを願っています。よろしくお願いします。
 
 ---
 
