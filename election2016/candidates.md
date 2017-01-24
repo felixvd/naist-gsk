@@ -18,21 +18,22 @@ In alphabetical order. ABC順です。
 - [Antonio Tejero de Pablos](#antonio)
 - [Arnaud Delmotte](#arnaud)
 - [Felix von Drigalski](#felix)
+- [Izumi Dateyama](#izumi)
 - [Lotfi El Hafi](#lotfi)
 - [Max (Taishi Sawabe)](#max)
 - [Pedro Miguel Uriguen Eljuri](#pedro)
+- [Miguel Angel Patino Gonzalez](#miguel)
 - [Rodrigo Elizalde](#rodrigo)
 
-
----
-THIS IS THE TEMPLATE
-### <a name=""></a> **** (*IS,*)
-![](.jpg)
 
 ---
 
 ### <a name="abi"></a> **Abi Uy** (*BS, M1*)
 ![](abi.jpg)
+
+I am Abi Uy, a Filipino student pursuing doctorate studies in the Biological Science division of NAIST. I am applying for a position in the student association because I wish to contribute a bit of my time and effort to represent the student body, help express their concerns to the administration, and contribute to organizing campus activities for the students.
+
+フィリピンから来たアビ・ウイです。バイサイエンスで博士課程へ進学予定です。学生会で学生代表や運営との議論、学生のためのキャンパスイベントの開催などに尽力するため、立候補しました。よろしくお願いします！
 
 ---
 
@@ -92,6 +93,15 @@ NAISTの学生会で全員の学生生活の改善、キャンパス生活のた
 G'day mate. My name is Max (Taishi Sawabe) from Osaka, Japan. I am a D1 student at the Ambient Intelligence Laboratory. My main research field is about robotics and human, specifically the harmonization of autonomous vehicles and human passengers. Moreover, I found the international exchange community called “Oasis” in 2016. The purpose of Oasis is to connect international students and Japanese students by held meet up events and the international party to connect more students from the different university. For the future of NAIST university life, I would like to use my knowledge, skills and activities to make our university life more comfortable and more enjoyable.
 
 みなさん、こんにちは。日本生まれ、大阪出身Max(澤邊太志)と申します。現在は、情報科学研究科の環境知能学研究室博士課程1年にて、自動走行と搭乗者の快適性に関する研究をしております。また研究外の活動とし、留学生と日本の学生を繋ぐ機会を増やすことを目的とした Oasisというコミュニティーを2016年度に立ち上げ、学内外で活動しております。Meet upや交流パーティーなどの活動を通して、学内外の留学生と学生が交流できる機会を今後とも増やしていきと思っております。現在学んでいる技術や知識、行なっている活動を通して、私たちの学生生活をより快適に、より楽しいものにしていきたいと思っています。よろしくお願いします。
+
+---
+
+### <a name="miguel"></a> **Miguel Angel Patino Gonzalez** (*IS, D1*)
+![](miguel.jpg)
+
+Hi All! My name is Miguel Patino, and I come from Paraguay. Currently, I am a D1 PhD Candidate within the Network Systems Lab. of G.S. of Information Science. After graduating from my Master’s in NAIST in March 2013, I came back to Paraguay for work, and returned to Japan again in April 2016. Both times as a Monbukagakusho scholar. I strongly believe the Students Association will make NAIST even better. Let’s share ideas, activities and knowledge. NAISTers must be all LEADERS!! I will be glad if you consider myself as your Representative for the Student Council. Thanks and Regards!!
+
+皆さんこんにちは！僕はパラグアイから来たミゲルパティノです。今ネットワークシステムズ学研究室のD1です。2013年3月にNAISTの修士課程を卒業した後、仕事のためにパラグアイに帰りましたが、2016年4月再び日本に来ました（両方文部科学省の奨学金）。NAIST学生会はNAISTを改善できることを深く信じています。アイディアや活動や知識をシェアーしましょう。すべてのNAISTの学生は指導者でなければなりません！僕を学生会代表として選んでくれたらうれしいです。ありがとうございます！！
 
 ---
 
