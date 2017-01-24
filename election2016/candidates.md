@@ -27,7 +27,7 @@ In alphabetical order. ABC順です。
 
 ---
 
-### <a name="abi"></a> **Abi Uy** (*BS, M1*)
+### <a name="abi"></a> **Abi Uy** (*BS, D1*)
 ![](abi.jpg)
 
 I am Abi Uy, a Filipino student pursuing doctorate studies in the Biological Science division of NAIST. I am applying for a position in the student association because I wish to contribute a bit of my time and effort to represent the student body, help express their concerns to the administration, and contribute to organizing campus activities for the students.
