@@ -3,10 +3,6 @@ layout: default
 title: NAIST Student Association / NAIST 学生会
 ---
 
-
-**[How to vote / 投票方法](../voting)**
----
-
 # Candidates for the election 2016/2017
 
 # 2016年度投票の利候補者
@@ -19,12 +15,12 @@ In alphabetical order. ABC順です。
 - [Arnaud Delmotte](#arnaud)
 - [Felix von Drigalski](#felix)
 - [Izumi Dateyama](#izumi)
-- [Lotfi El Hafi](#lotfi)
 - [Max (Taishi Sawabe)](#max)
 - [Pedro Miguel Uriguen Eljuri](#pedro)
 - [Miguel Angel Patino Gonzalez](#miguel)
 - [Rodrigo Elizalde](#rodrigo)
 
+**[How to vote / 投票方法](../voting)**
 
 ---
 
@@ -79,11 +75,6 @@ I want to use the student association to make life better for all students, to s
 NAISTリサイクルサークルの設立者と部長で毎年のリユースマーケットを行います。
 数ある中で、ドイツのKITの機械工学学生会(約5000人)の会計係を務め、自然エネルギー発電装置の設計競争を設立しました。
 NAISTの学生会で全員の学生生活の改善、キャンパス生活のために頑張っているサークルの支援、日本学生と留学生のインタラクションの増進をすべて目標とします。
-
----
-
-### <a name="lotfi"></a> **Lotfi El Hafi** (*IS, D3*)
-![](lotfi.jpg)
 
 ---
 
