@@ -90,6 +90,13 @@ NAISTの学生会で全員の学生生活の改善、キャンパス生活のた
 
 ---
 
+### <a name="izumi"></a> **Izumi Dateyama** (*BS, D2*)
+![](izumi.jpg)
+
+MISSING
+
+---
+
 ### <a name="max"></a> **Max (Taishi Sawabe)** (*IS, D1*)
 ![](max.jpg)
 
