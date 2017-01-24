@@ -19,6 +19,7 @@ In alphabetical order. ABC順です。
 - [Pedro Miguel Uriguen Eljuri](#pedro)
 - [Miguel Angel Patino Gonzalez](#miguel)
 - [Rodrigo Elizalde](#rodrigo)
+- [Yodo Atsushi (淀淳)](#atsushi)
 
 **[How to vote / 投票方法](../voting)**
 
@@ -69,11 +70,12 @@ I hope to organize a lot of fun events on campus.
 [![](felix.jpg)](felix_b.jpg)
 
 I am founder and president of the NAIST Recycling Club and organise the yearly Reuse Market.
-Among other things, I have served as treasurer of the KIT Mech. Eng. Student Association (~5000 students) and co-founded a design competition for renewable power plants.
+I have served as treasurer of the KIT Mech. Eng. Student Association (~5000 students) and co-founded a design competition for renewable power plants.
 I want to use the student association to make life better for all students, to support student clubs in making the campus life happen, and to promote the interaction between international and Japanese students.
+My main demand is a shared space for student groups and student access to NAIST halls. A vote for me is a vote for these things.
 
 NAISTリサイクルサークルの設立者と部長で毎年のリユースマーケットを行います。
-数ある中で、ドイツのKITの機械工学学生会(約5000人)の会計係を務め、自然エネルギー発電装置の設計競争を設立しました。
+ドイツのKITの機械工学学生会(約5000人)の会計係を務め、自然エネルギー発電装置の設計競争を設立しました。
 NAISTの学生会で全員の学生生活の改善、キャンパス生活のために頑張っているサークルの支援、日本学生と留学生のインタラクションの増進をすべて目標とします。
 
 ---
@@ -116,4 +118,14 @@ Hello, I am from Mexico, I am 28 years old and I used to work as a software anal
 
 ---
 
+### <a name="atsushi"></a> **Yodo Atsushi (淀淳)** (*BS, M1*)
+![](atsushi.jpg)
+
+I’m from Osaka,Japan. Born and raised. My hobby is to play sports. I belong to NAIST FUTSAL CLUB and NAIST Baseball club. If you are interested in it, please come visit!
+
+I think that Clubs and Events is few in NAIST. I want to increase clubs and events. And I feel that opportunities for student and school exchange of opinions are few in NAIST.So I think that NAIST Student Association is good idea. Please let me change NAIST. Thank you for reading.
+
+---
+
 * **[How to vote / 投票方法](../voting)**
+---
