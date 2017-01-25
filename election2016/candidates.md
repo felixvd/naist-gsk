@@ -140,7 +140,7 @@ Hello, I am from Mexico, I am 28 years old and I used to work as a software anal
 ### <a name="otoda"></a> **Yasuhiro Otoda** (*IS, M1*)
 ![](otoda.jpg)
 
-I am a M1 in the Ubuquitous Computing Systems Lab. I like reading and read about a book per week. I also change hair color a lot (and now it's blond)
+I am a M1 in the Ubuquitous Computing Systems Lab. I like reading and read about a book per week. I also change hair color a lot (and now it's black)
 
 情報科学のユビキタスコンピューティングシステム研究室のM1です。本を一週間で一冊ペースで読むくらい読書が好きです。よく髪色が変化します(いまは就活で黒色だけど
 
