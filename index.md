@@ -7,7 +7,7 @@ title: NAIST Student Association / NAIST 学生会
 
 * **[List of candidates](election2016/candidates)**
 * **[How to vote / 投票方法](voting)**
-* **[Q&A / 質問]**
+* **[Q&A / 質問](faq)**
 
 The election will end on Monday, Jan 30, 23:59. See the links above.
 
