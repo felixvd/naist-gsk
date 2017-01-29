@@ -5,7 +5,7 @@ title: NAIST Student Association / NAIST 学生会
 
 # [](#timeline)Election 2016/2017　・　2016年度投票
 
-* **[List of candidates](election2016/candidates)**
+* **[List of candidates / 立候補者の自己紹介](election2016/candidates)**
 * **[How to vote / 投票方法](voting)**
 * **[Q&A / 質問](faq)**
 
