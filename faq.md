@@ -6,7 +6,7 @@ layout: default
 
 ### What position are the candidates contesting for?
 
-Everyone is set up for be voted as "Member of the Student Council". The seven members of the council will
+Everyone is set up for be voted as "Member of the Student Council". Read more about the structure of the student association [here](structure).
 
 ### How many people am I expected to vote for?
 
