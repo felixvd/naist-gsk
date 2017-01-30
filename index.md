@@ -9,9 +9,9 @@ title: NAIST Student Association / NAIST 学生会
 * **[How to vote / 投票方法](voting)**
 * **[Q&A / 質問](faq)**
 
-The election will end on Monday, Jan 30, 23:59. See the links above.
+~~The election will end on Monday, Jan 30, 23:59. See the links above.~~ **The election deadline was extended by 2 hours due to technical problems preventing a few students from voting.**
 
-選挙は1月30日23:59時までです。上のリンクを参照してください。
+~~選挙は1月30日23:59時までです。上のリンクを参照してください。~~ **投票登録の問題のため、締め切りが２時間で伸ばされました。**
 
 ## [](#links)More information / 詳細情報
 
