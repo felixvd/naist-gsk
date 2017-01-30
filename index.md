@@ -3,18 +3,21 @@ layout: default
 title: NAIST Student Association / NAIST 学生会
 ---
 
-# [](#timeline)Election 2016/2017　・　2016年度投票
+# **[Election Results 2016/2017 / 2016年度投票](election2016/results)**
 
-* **[List of candidates / 立候補者の自己紹介](election2016/candidates)**
-* **[How to vote / 投票方法](voting)**
-* **[Q&A / 質問](faq)**
+Thank you for participating in the election! The first meeting will be held on:
 
-~~The election will end on Monday, Jan 30, 23:59. See the links above.~~ **The election deadline was extended by 2 hours due to technical problems preventing a few students from voting.**
+## 31 January 2017 (Tuesday), 15:00, Room S1 (IS Building)
 
-~~選挙は1月30日23:59時までです。上のリンクを参照してください。~~ **投票登録の問題のため、締め切りが２時間で伸ばされました。**
+投票を参加していただきありがとうございます。学生会の最初のミーティングは：
+
+## 2017年1月31日(火), 15時, S1部屋 (情報科学の建物)
+
+です。
 
 ## [](#links)More information / 詳細情報
 
 * [What is the student association and what does it do? / 学生会とは？](introduction).
 * [How to participate / 参加方法](participate)
 * [Formal structure of the student council / NAIST学生会構成](structure)
+* [Q&A / 質問](faq)
