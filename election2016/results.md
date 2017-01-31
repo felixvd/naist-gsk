@@ -33,3 +33,5 @@ The final members of the council will be decided at the first meeting of the ass
 * [What is the student association and what does it do? / 学生会とは？](introduction).
 * [How to participate / 参加方法](participate)
 * [Formal structure of the student council / NAIST学生会構成](structure)
+
+[back](./)
