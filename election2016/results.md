@@ -15,13 +15,13 @@ The initial nominated members of the council are thus:
 
 では、初期学生会代表は：
 
-**Felix von Drigalski
-Abi Uy
-Antonio Tejero de Pablos
-Izumi Dateyama
-Max (Taishi Sawabe)
-Adrian Chek
-Miguel Angel Patiño González**
+- Felix von Drigalski
+- Abi Uy
+- Antonio Tejero de Pablos
+- Izumi Dateyama
+- Max (Taishi Sawabe)
+- Adrian Chek
+- Miguel Angel Patiño González
 
 The final members of the council will be decided at the first meeting of the association at **15:00 on Tuesday, 31 January 2017, in room S1 of the IS building**. Please feel free to attend and join the discussion.
 
