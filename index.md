@@ -5,15 +5,9 @@ title: NAIST Student Association / NAIST 学生会
 
 # **[Election Results 2016/2017 / 2016年度投票](election2016/results)**
 
-Thank you for participating in the election! The first meeting will be held on:
+Thank you for participating in the election! 投票を参加していただきありがとうございます。
 
-## 31 January 2017 (Tuesday), 15:00, Room S1 (IS Building)
-
-投票を参加していただきありがとうございます。学生会の最初のミーティングは：
-
-## 2017年1月31日(火), 15時, S1部屋 (情報科学の建物)
-
-です。
+Please stay tuned while we redesign the website.
 
 ## [](#links)More information / 詳細情報
 

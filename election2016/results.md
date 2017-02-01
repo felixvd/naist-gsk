@@ -11,9 +11,9 @@ The results of the Student Council election 2016 are as follows:
 
 ![](results.png)
 
-The initial nominated members of the council are thus:
+The members of the council who have accepted their nomination at the founding meeting on Tuesday, 31 January 2017 are:
 
-では、初期学生会代表は：
+では、2017年1月31日(火)のミーティングの時に決定された学生会代表は：
 
 - Felix von Drigalski
 - Abi Uy
@@ -23,9 +23,14 @@ The initial nominated members of the council are thus:
 - Adrian Chek
 - Miguel Angel Patiño González
 
-The final members of the council will be decided at the first meeting of the association at **15:00 on Tuesday, 31 January 2017, in room L2 of the IS building**. Please feel free to attend and join the discussion.
+The council has assigned the following roles:
 
-代表を最初の学生会ミーティングで決定されます。ミーティングは **2017年1月31日(火),15時,L2部屋(情報)** で行われます。どうぞご参加ください。
+下記の役を割り当てられました：
+
+* **President: Felix von Drigalski**
+* **Vice-Pres.: Izumi Dateyama**
+* **Treasurer: Max (Taishi Sawabe)**
+* **Secretary: Abi Uy**
 
 ## [](#links)More information / 詳細情報
 
