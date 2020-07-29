@@ -13,7 +13,6 @@ In alphabetical order. ABC順です。
 - [Adrian Chek](#adrian)
 - [Antonio Tejero de Pablos](#antonio)
 - [Arnaud Delmotte](#arnaud)
-- [Atsushi Yodo (淀淳)](#atsushi)
 - [Felix von Drigalski](#felix)
 - [Izumi Dateyama](#izumi)
 - [Max (Taishi Sawabe)](#max)
@@ -65,15 +64,6 @@ I hope to organize a lot of fun events on campus.
 
 僕はベルギー人で、イベントを計画と参加するのがすきです。サークルの経験があります：ベルギーで日本文化協会に4年間メンバーで参加して、一年間部長を務めました。日本に来てからは、阪大のOUISA(阪大留学生会)に入部し、大阪にMeetupグループを三つ設立しました（パルクール、芸術、即興演劇）。
 キャンパスに多くの楽しいイベントを作ろうと思っています！
-
----
-
-### <a name="atsushi"></a> **Yodo Atsushi (淀淳)** (*BS, M1*)
-![](atsushi.jpg)
-
-I’m from Osaka,Japan. Born and raised. My hobby is to play sports. I belong to NAIST FUTSAL CLUB and NAIST Baseball club. If you are interested in it, please come visit!
-
-I think that Clubs and Events is few in NAIST. I want to increase clubs and events. And I feel that opportunities for student and school exchange of opinions are few in NAIST.So I think that NAIST Student Association is good idea. Please let me change NAIST. Thank you for reading.
 
 ---
 
